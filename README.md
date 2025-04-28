@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Bruno Soares
+# 💻 Bruno Soares
 
 **`Desenvolvedor Front-end`**
 
